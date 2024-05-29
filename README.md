@@ -3,5 +3,5 @@ This repository contains some exercises, coded by Yael Dinar. The exercises were
 
 ## files that are not python files:
 - Names.txt is for task 1.5
-- name_length is a file that was created by task 1.5
-- animal is a picture that was created by task 6.4
+- name_length.txt is a file that was created by task 1.5
+- animal.png is a picture that was created by task 6.4
