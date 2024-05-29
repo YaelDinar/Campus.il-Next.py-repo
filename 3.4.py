@@ -1,3 +1,5 @@
+#task 3.4 from chapter 3
+
 import re
 import string
 
