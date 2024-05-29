@@ -1,3 +1,5 @@
+#task 2.5 from chapter 2
+
 #Animal super class
 class Animal():
 
