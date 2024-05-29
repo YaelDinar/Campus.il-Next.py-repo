@@ -1,3 +1,5 @@
+#task 4.4 from chapter 4
+
 def gen_secs():
     """
     Generator that yields all seconds in a minute (0-59).
