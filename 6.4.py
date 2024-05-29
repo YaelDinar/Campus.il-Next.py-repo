@@ -1,3 +1,5 @@
+#task 6.4 from chapter 6
+
 from tkinter import Tk, Label
 from PIL import Image, ImageDraw, ImageTk
 
